@@ -1,0 +1,21 @@
+
+Geometry on the GPU | simplify
+  Input V/E/F               18124 / 54372 / 36248
+  Input chi / genus         0 / 1.000000
+  Output V/E/F              500 / 1500 / 1000
+  Output chi / genus        0 / 1.000000
+  Collapses                 17624
+  Rejected link             4695
+  Rejected normal flip      70607
+  Rejected degenerate       55481
+  Simplify ms               680.7871
+  Saved                     submission/6732029421/6732029421.obj
+  Part III error            (Part III not done yet)
+  Hausdorff                 0.0090
+  Hausdorff %               0.3158
+  Mean distance             0.0005
+  Mean %                    0.0159
+  Boundary / nonmanifold    0 / 0
+  Face components / genus   1 / 1.000000
+  Competition               VALID
+TASK 3a not done
