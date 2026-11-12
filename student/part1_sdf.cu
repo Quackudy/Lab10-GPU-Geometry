@@ -18,7 +18,7 @@
 // Example: sdf_sphere((3,0,0),1) -> 2; ((0.5,0,0),1) -> -0.5.
 HD float sdf_sphere(vec3 p, float r) {
     // TODO (1a) 1: Distance to centre minus radius; length(p) is given.
-    return task_blank<float>("1a");
+    return length(p) - r;
 }
 
 // Follow rays to turn the sphere distance into a visible lit ball.
